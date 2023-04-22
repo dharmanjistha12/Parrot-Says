@@ -2,6 +2,7 @@ NEWSCATCHER API
 
 This project is made from data provided by newscatcher api. This newsapp will help people to read news anywhere anytime and stay updated always.
 
+The link to newscatcher api official site: https://newscatcherapi.com/
 
 # Getting Started with Create React App
 
