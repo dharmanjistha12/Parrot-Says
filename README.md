@@ -1,3 +1,8 @@
+NEWSCATCHER API
+
+This project is made from data provided by newscatcher api. This newsapp will help people to read news anywhere anytime and stay updated always.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
